@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   
-  title = 'clock-it';
+  title = 'time-stick';
 
   constructor() { }
 }

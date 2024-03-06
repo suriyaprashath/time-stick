@@ -9,7 +9,7 @@ enum TimerStatus {
 }
 
 @Component({
-  selector: 'ci-timer',
+  selector: 'ts-timer',
   standalone: true,
   imports: [],
   templateUrl: './timer.component.html',

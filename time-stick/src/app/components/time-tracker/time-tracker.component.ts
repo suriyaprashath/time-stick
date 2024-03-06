@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { TimerComponent } from '../timer/timer.component';
 
 @Component({
-  selector: 'ci-time-tracker',
+  selector: 'ts-time-tracker',
   standalone: true,
   imports: [TimerComponent],
   templateUrl: './time-tracker.component.html',
